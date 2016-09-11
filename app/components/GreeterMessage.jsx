@@ -1,4 +1,5 @@
 var React = require('react');
+
 var GreeterMessage = React.createClass({
 	render: function(){
 		return(

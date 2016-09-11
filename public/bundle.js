@@ -19807,6 +19807,7 @@
 	'use strict';
 
 	var React = __webpack_require__(1);
+
 	var GreeterMessage = React.createClass({
 		displayName: 'GreeterMessage',
 
@@ -19837,6 +19838,7 @@
 	"use strict";
 
 	var React = __webpack_require__(1);
+
 	var GreeterForm = React.createClass({
 		displayName: "GreeterForm",
 
@@ -19874,6 +19876,7 @@
 	"use strict";
 
 	var React = __webpack_require__(1);
+
 	var GreeterFormMsg = React.createClass({
 		displayName: "GreeterFormMsg",
 
